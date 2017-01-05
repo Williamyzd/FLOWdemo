@@ -21,6 +21,7 @@
     NSLog(@"第二次尝试打包");
     NSLog(@"这是什么贵");
     NSLog(@"lalalalalalalalaalalalla");
+    NSLog(@"自拍是奇偶发散");
 }
 
 
