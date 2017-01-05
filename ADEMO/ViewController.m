@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"这是一个大DEMOwolege ");
     NSLog(@"第二次尝试打包");
+    NSLog(@"这是什么贵");
 }
 
 
