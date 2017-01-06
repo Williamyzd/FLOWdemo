@@ -279,7 +279,7 @@
 				DEVELOPMENT_TEAM = 8YF6WE9A9J;
 				INFOPLIST_FILE = ADEMO/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.trs.flowdemo;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.trs.-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "16e8619d-b234-4ad4-95d1-eb0d4912ee59";
 				PROVISIONING_PROFILE_SPECIFIER = wild_develop_provision;
@@ -294,7 +294,7 @@
 				DEVELOPMENT_TEAM = 8YF6WE9A9J;
 				INFOPLIST_FILE = ADEMO/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.trs.flowdemo;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.trs.-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "f7693792-8cc0-4971-8d2d-e2e294788235";
 				PROVISIONING_PROFILE_SPECIFIER = "XC iOS Ad Hoc: *";
@@ -320,6 +320,7 @@
 				3DFAAED31E14EBB60034645D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
