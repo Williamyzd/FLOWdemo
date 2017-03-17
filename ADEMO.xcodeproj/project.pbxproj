@@ -279,10 +279,10 @@
 				DEVELOPMENT_TEAM = 8YF6WE9A9J;
 				INFOPLIST_FILE = ADEMO/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.trs.ademo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.trs.jenkinsdemo.jenkinsdemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "16e8619d-b234-4ad4-95d1-eb0d4912ee59";
-				PROVISIONING_PROFILE_SPECIFIER = wild_develop_provision;
+				PROVISIONING_PROFILE = "08281b54-b29e-4aa6-80be-afed749b972c";
+				PROVISIONING_PROFILE_SPECIFIER = jenkinsdemo_develop;
 			};
 			name = Debug;
 		};
@@ -294,10 +294,10 @@
 				DEVELOPMENT_TEAM = 8YF6WE9A9J;
 				INFOPLIST_FILE = ADEMO/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.trs.ademo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.trs.jenkinsdemo.jenkinsdemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "f7693792-8cc0-4971-8d2d-e2e294788235";
-				PROVISIONING_PROFILE_SPECIFIER = "XC iOS Ad Hoc: *";
+				PROVISIONING_PROFILE = "bebc0669-2c5e-4d57-b23a-40a8cd09b3a4";
+				PROVISIONING_PROFILE_SPECIFIER = jenkinsdemo_adhoc;
 			};
 			name = Release;
 		};
