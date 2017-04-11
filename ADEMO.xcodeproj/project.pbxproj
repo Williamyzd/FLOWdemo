@@ -278,6 +278,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = 8YF6WE9A9J;
 				INFOPLIST_FILE = ADEMO/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.trs.jenkinsdemo.jenkinsdemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -293,6 +294,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				DEVELOPMENT_TEAM = 8YF6WE9A9J;
 				INFOPLIST_FILE = ADEMO/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.trs.jenkinsdemo.jenkinsdemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
